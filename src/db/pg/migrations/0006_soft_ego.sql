@@ -1,0 +1,1 @@
+ALTER TABLE "bos_admin_roles" RENAME TO "bos_roles";

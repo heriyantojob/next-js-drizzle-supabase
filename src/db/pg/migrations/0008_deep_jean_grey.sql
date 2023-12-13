@@ -1,0 +1,1 @@
+ALTER TABLE "bos_profiles" ADD COLUMN "id_role " integer;
